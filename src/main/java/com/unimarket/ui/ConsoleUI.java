@@ -65,7 +65,7 @@ public class ConsoleUI {
     private void showLoginMenu() {
         while (currentUser == null) {
             System.out.println(separador());
-            System.out.println(titulo("  🔐 INICIO DE SESIÓN"));
+            System.out.println(titulo("   INICIO DE SESIÓN"));
             System.out.println(separador());
             System.out.print(CIAN + "  Ingrese su usuario: " + RESET);
 
@@ -98,13 +98,13 @@ public class ConsoleUI {
 
         while (running) {
             System.out.println(separador());
-            System.out.println(titulo("  🛒 MENÚ PRINCIPAL"));
+            System.out.println(titulo("   MENÚ PRINCIPAL"));
             System.out.println(separador());
-            System.out.println(AMARILLO + "  [1]" + RESET + " 📦 Ver Catálogo");
-            System.out.println(AMARILLO + "  [2]" + RESET + " ➕ Agregar al Carrito");
-            System.out.println(AMARILLO + "  [3]" + RESET + " 💰 Ver Total del Carrito");
-            System.out.println(AMARILLO + "  [4]" + RESET + " ✅ Pagar (Checkout)");
-            System.out.println(AMARILLO + "  [5]" + RESET + " 🚪 Salir");
+            System.out.println(AMARILLO + "  [1]" + RESET + "  Ver Catálogo");
+            System.out.println(AMARILLO + "  [2]" + RESET + "  Agregar al Carrito");
+            System.out.println(AMARILLO + "  [3]" + RESET + "  Ver Total del Carrito");
+            System.out.println(AMARILLO + "  [4]" + RESET + "  Pagar (Checkout)");
+            System.out.println(AMARILLO + "  [5]" + RESET + "  Salir");
             System.out.println(separador());
             System.out.print(CIAN + "  Seleccione una opción: " + RESET);
 
@@ -128,7 +128,7 @@ public class ConsoleUI {
         List<Product> catalog = marketService.getCatalog();
 
         System.out.println();
-        System.out.println(titulo("  📦 CATÁLOGO DE PRODUCTOS"));
+        System.out.println(titulo("   CATÁLOGO DE PRODUCTOS"));
         System.out.println(separador());
 
         // Header de tabla
@@ -195,7 +195,7 @@ public class ConsoleUI {
             String commissionName = ms.getCommissionName(currentUser.getType());
 
             System.out.println();
-            System.out.println(titulo("  💰 RESUMEN DEL CARRITO"));
+            System.out.println(titulo("   RESUMEN DEL CARRITO"));
             System.out.println(separador());
 
             // Mostrar items del carrito
@@ -235,7 +235,7 @@ public class ConsoleUI {
                 double total = subtotal + commission;
 
                 System.out.println();
-                System.out.println(titulo("  ✅ CONFIRMACIÓN DE PAGO"));
+                System.out.println(titulo("   CONFIRMACIÓN DE PAGO"));
                 System.out.println(separador());
                 System.out.println(info("Productos en el carrito: " + ms.getCurrentCart().size()));
                 System.out.println(info("Total a pagar: " + NEGRITA + VERDE + String.format("$%.2f", total) + RESET));

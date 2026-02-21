@@ -35,19 +35,19 @@ public final class ColorUtils {
     // --- Métodos helpers ---
 
     public static String error(String msg) {
-        return NEGRITA + ROJO + "✘ " + msg + RESET;
+        return NEGRITA + ROJO + " " + msg + RESET;
     }
 
     public static String exito(String msg) {
-        return NEGRITA + VERDE + "✔ " + msg + RESET;
+        return NEGRITA + VERDE + " " + msg + RESET;
     }
 
     public static String info(String msg) {
-        return CIAN + "ℹ " + msg + RESET;
+        return CIAN + " " + msg + RESET;
     }
 
     public static String advertencia(String msg) {
-        return AMARILLO + "⚠ " + msg + RESET;
+        return AMARILLO + " " + msg + RESET;
     }
 
     public static String titulo(String msg) {
