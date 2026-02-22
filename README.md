@@ -134,3 +134,12 @@ Los servicios se comunican con repositorios mediante interfaces, permitiendo ree
 ```bash
 mvn clean compile
 mvn exec:java
+```
+
+## 8) Créditos
+
+| Rol | Integrante |
+|-----|-----------|
+| Implementación de patrones & Documentación UML | Bruno Elias Pérez Merino |
+| Video de presentación , UML & Dev | Juan David Cruz Ángel |
+| Lógica del negocio , UML & Dev | Julián Aguilar Zambrano |
