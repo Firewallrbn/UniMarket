@@ -78,7 +78,8 @@ https://mermaid.ai/d/465ac8c8-e6b4-4328-ac93-f2367a814e1b
 ---
 
 ### 4.4 Diagramas de casos de uso o secuencia (recomendado)
-📌 *Caso de uso / Secuencia:* (pegar aquí enlace o imagen si lo incluyen)
+📌 *Caso de uso / Secuencia:* 
+![f8b3603e-c192-4f59-9dcd-eccafee569ed](https://github.com/user-attachments/assets/2cf263f6-7100-4322-9dde-25c59db3738d)
 
 ---
 
