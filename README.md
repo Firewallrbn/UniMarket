@@ -7,6 +7,9 @@ En la Universidad de La Sabana existe una dinámica constante de compra y venta 
 
 *Beneficiarios principales:* estudiantes compradores, estudiantes emprendedores/vendedores y la comunidad universitaria en general.
 
+* Video explicativo:
+  https://youtu.be/m09SnFsfHWM
+
 ---
 
 ## 2) Creatividad en la Presentación
