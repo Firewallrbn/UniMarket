@@ -14,6 +14,7 @@ En la Universidad de La Sabana existe una dinámica constante de compra y venta 
 ## 2) Creatividad en la Presentación
 * Video explicativo:
   https://youtu.be/m09SnFsfHWM
+El video presenta la problemática de la compra/venta informal dentro del campus y la necesidad de una plataforma centralizada para visibilizar emprendimientos y facilitar transacciones con una pequeña presentacion de lo que es UniMarket.
 
 ---
 
