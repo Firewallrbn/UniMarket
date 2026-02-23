@@ -7,14 +7,13 @@ En la Universidad de La Sabana existe una dinámica constante de compra y venta 
 
 *Beneficiarios principales:* estudiantes compradores, estudiantes emprendedores/vendedores y la comunidad universitaria en general.
 
-* Video explicativo:
-  https://youtu.be/m09SnFsfHWM
+
 
 ---
 
 ## 2) Creatividad en la Presentación
- *Video creativo (problemática):* (pegar aquí el enlace al video)  
-Breve descripción: el video presenta la problemática de la compra/venta informal dentro del campus y la necesidad de una plataforma centralizada para visibilizar emprendimientos y facilitar transacciones con una pequeña presentacion de lo que es UniMarket.
+* Video explicativo:
+  https://youtu.be/m09SnFsfHWM
 
 ---
 
